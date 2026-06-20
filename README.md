@@ -20,7 +20,8 @@ End-to-end functional and exploratory testing for web-based platforms.
 - **Test Cases:**    * **Test Cases:** 
      * [TC_Nusuk_001 - User Registration](./01-Manual-Testing/TC_Nusuk_001_Registration.md)
      * [TC_Nusuk_002 - Umrah Booking](./01-Manual-Testing/TC_Nusuk_002.md)
-- **Bug Reports:** Coming Soon  
+- **Bug Reports:**    * **Bug Reports:** 
+     * [BUG_Nusuk_001 - App Crash on Future Date](./01-Manual-Testing/Bug_Report_Nusuk_001.md)
 - **Key Focus:** Cross-browser compatibility, user workflow validation, edge case coverage
 
 ### 2. API Testing with Postman
