@@ -17,7 +17,9 @@
 
 ### 1. Web Application Testing
 End-to-end functional and exploratory testing for web-based platforms.
-- **Test Cases:** Coming Soon
+- **Test Cases:**    * **Test Cases:** 
+     * [TC_Nusuk_001 - User Registration](./01-Manual-Testing/TC_Nusuk_001_Registration.md)
+     * [TC_Nusuk_002 - Umrah Booking](./01-Manual-Testing/TC_Nusuk_002.md)
 - **Bug Reports:** Coming Soon  
 - **Key Focus:** Cross-browser compatibility, user workflow validation, edge case coverage
 
